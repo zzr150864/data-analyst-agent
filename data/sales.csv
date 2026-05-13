@@ -1,0 +1,50 @@
+date,region,product_category,product_name,sales_amount,units_sold,price,customer_rating,cost,profit,marketing_spend,is_promotion,season
+2024-01-01,North,Electronics,SmartPhone X,125000,50,2500,4.5,1800,35000,5000,false,Winter
+2024-01-02,North,Electronics,Laptop Pro,200000,25,8000,4.2,6000,50000,8000,false,Winter
+2024-01-03,South,Electronics,SmartPhone X,150000,60,2500,4.7,1800,42000,6000,true,Winter
+2024-01-04,East,Clothing,Winter Jacket,48000,80,600,4.0,350,20000,2000,false,Winter
+2024-01-05,West,Clothing,Winter Jacket,36000,60,600,4.1,350,15000,1500,false,Winter
+2024-02-01,North,Electronics,Tablet S,90000,30,3000,4.3,2100,27000,4000,true,Winter
+2024-02-05,South,Clothing,Sneakers,32000,80,400,4.4,200,16000,1200,false,Winter
+2024-02-10,East,Electronics,SmartPhone X,100000,40,2500,4.6,1800,28000,5000,false,Winter
+2024-02-15,West,Electronics,Laptop Pro,160000,20,8000,4.0,6000,40000,7000,true,Winter
+2024-03-01,North,Clothing,T-Shirt,15000,100,150,3.8,70,8000,800,false,Spring
+2024-03-05,South,Electronics,Tablet S,75000,25,3000,4.5,2100,22500,3000,false,Spring
+2024-03-10,East,Clothing,Sneakers,28000,70,400,4.2,200,14000,1000,false,Spring
+2024-03-15,West,Food,Coffee Beans,9000,90,100,4.8,60,3600,500,true,Spring
+2024-04-01,North,Food,Organic Tea,12000,80,150,4.6,90,4800,600,false,Spring
+2024-04-05,South,Clothing,T-Shirt,18000,120,150,3.9,70,9600,900,false,Spring
+2024-04-10,East,Electronics,Laptop Pro,240000,30,8000,4.3,6000,60000,8000,true,Spring
+2024-04-15,West,Electronics,SmartPhone X,137500,55,2500,4.4,1800,38500,5500,false,Spring
+2024-05-01,North,Electronics,SmartWatch,45000,90,500,4.1,300,18000,2000,false,Spring
+2024-05-05,South,Food,Coffee Beans,10000,100,100,4.7,60,4000,400,false,Spring
+2024-05-10,East,Food,Organic Tea,13500,90,150,4.5,90,5400,500,false,Spring
+2024-05-15,West,Clothing,Sneakers,40000,100,400,4.3,200,20000,1500,true,Spring
+2024-06-01,North,Clothing,Summer Dress,36000,120,300,4.4,180,14400,1200,false,Summer
+2024-06-05,South,Electronics,SmartWatch,55000,110,500,4.0,300,22000,2500,false,Summer
+2024-06-10,East,Electronics,Tablet S,78000,26,3000,4.6,2100,23400,3000,false,Summer
+2024-06-15,West,Food,Coffee Beans,12000,120,100,4.8,60,4800,500,true,Summer
+2024-07-01,North,Electronics,SmartPhone X,150000,60,2500,4.5,1800,42000,6000,false,Summer
+2024-07-05,South,Clothing,Summer Dress,42000,140,300,4.2,180,16800,1400,false,Summer
+2024-07-10,East,Food,Organic Tea,15000,100,150,4.4,90,6000,600,false,Summer
+2024-07-15,West,Electronics,Laptop Pro,200000,25,8000,4.1,6000,50000,8000,true,Summer
+2024-08-01,North,Clothing,Sneakers,48000,120,400,4.3,200,24000,1800,false,Summer
+2024-08-05,South,Electronics,SmartWatch,60000,120,500,4.2,300,24000,3000,false,Summer
+2024-08-10,East,Electronics,SmartPhone X,125000,50,2500,4.6,1800,35000,5000,false,Summer
+2024-08-15,West,Clothing,T-Shirt,15000,100,150,3.7,70,8000,800,false,Summer
+2024-09-01,North,Food,Coffee Beans,8000,80,100,4.7,60,3200,400,false,Autumn
+2024-09-05,South,Electronics,Laptop Pro,240000,30,8000,4.4,6000,60000,7000,true,Autumn
+2024-09-10,East,Clothing,Winter Jacket,42000,70,600,4.0,350,17500,2000,false,Autumn
+2024-09-15,West,Electronics,Tablet S,72000,24,3000,4.5,2100,21600,2800,false,Autumn
+2024-10-01,North,Electronics,SmartPhone X,137500,55,2500,4.5,1800,38500,5000,false,Autumn
+2024-10-05,South,Clothing,Sneakers,36000,90,400,4.1,200,18000,1500,false,Autumn
+2024-10-10,East,Food,Organic Tea,12000,80,150,4.6,90,4800,500,false,Autumn
+2024-10-15,West,Electronics,SmartWatch,50000,100,500,4.0,300,20000,2500,true,Autumn
+2024-11-01,North,Clothing,Winter Jacket,54000,90,600,4.2,350,22500,2500,false,Autumn
+2024-11-05,South,Electronics,Tablet S,90000,30,3000,4.3,2100,27000,3500,false,Autumn
+2024-11-10,East,Electronics,Laptop Pro,280000,35,8000,4.5,6000,70000,9000,true,Autumn
+2024-11-15,West,Food,Coffee Beans,11000,110,100,4.7,60,4400,500,false,Autumn
+2024-12-01,North,Food,Organic Tea,15000,100,150,4.5,90,6000,700,false,Winter
+2024-12-05,South,Electronics,SmartPhone X,162500,65,2500,4.6,1800,45500,6500,true,Winter
+2024-12-10,East,Clothing,Sneakers,44000,110,400,4.2,200,22000,1800,false,Winter
+2024-12-15,West,Electronics,SmartWatch,55000,110,500,4.1,300,22000,3000,false,Winter
